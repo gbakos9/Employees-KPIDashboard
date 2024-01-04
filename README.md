@@ -9,3 +9,7 @@ The dataset called "employees_mod" comprises multiple tables ("t_departments, t_
  ####  Task 2: Compare the number of male managers to the number of female managers from different departments for each year  since 1990.
  ####  Task 3: Compare average salary between male and female across the whole organization until year 2022 whilst filerting by department.
  ####  Task 4: Create a SQL stored procedure to obtain the average male & female salary per department within a certain salary range. Let the range be defined by two values that user can insert when calling the procedure.
+
+To acomplish the above tasks, please download the dataset called "employees_mod" from DropBox.
+https://www.dropbox.com/scl/fi/bv52b0esxc94vnp8ed2az/employees_mod.sql?rlkey=2ni8ukn8f67esyxydg09djpzw&dl=0
+#### Note: Please download the above dataset and review the code facilitated if you struggle to obtain the same results for this project.
