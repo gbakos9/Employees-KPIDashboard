@@ -12,4 +12,4 @@ The dataset called "employees_mod" comprises multiple tables ("t_departments, t_
 
 To acomplish the above tasks, please download the dataset called "employees_mod" from DropBox.
 https://www.dropbox.com/scl/fi/bv52b0esxc94vnp8ed2az/employees_mod.sql?rlkey=2ni8ukn8f67esyxydg09djpzw&dl=0
-#### Note: Please download the above dataset and review the code facilitated if you struggle to obtain the same results for this project.
+#### Note: Please download the above dataset and review the code facilitated if you struggle to obtain the same results for this project. The csv files are also to help you understand the data that needs to be pulled in SQL before importing it into Tableau to create our KPI visualisation.
